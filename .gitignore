@@ -1,0 +1,13 @@
+# Ignorar el entorno virtual completo
+.venv/
+venv/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter notebooks o del sistema
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
